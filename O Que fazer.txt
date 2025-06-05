@@ -1,0 +1,8 @@
+Adicionar Validação de Senha
+
+Ela deve conter
+! letra maiuscula, 
+1 minuscula,
+ 1 caractere especial,
+ 1 numero,
+ 8 caracteres
